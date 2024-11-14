@@ -12,12 +12,13 @@ Considering this, solving a linear system that grows in size becomes more diffic
 ### Detailed Challenge Description
 
 In this challenge, your goal is to reproduce the implementation of the quantum algorithm displayed in the Sec. 2.3 of the paper Ref [1], i.e. solve the following system of linear equations:
+
  $$\textbf{A}\vec{x}= \vec{0}$$
 
  $$A = \sum_{i=1}^{10} X_i  + 0.1\sum_{i=1}^{9} Z_i Z_{i+1} +I,$$
 
 
-Where $ X_i$, adn $Z_i$ are the respective Pauli matrices, acting over the Qubit with index $i$.
+Where $X_i$, adn $Z_i$ are the respective Pauli matrices, acting over the Qubit with index $i$.
 The submitted solution to this challenge consists of a quantum program written with Classiq that includes:
 
 	1) A correct cost function and quantum ansätze 
