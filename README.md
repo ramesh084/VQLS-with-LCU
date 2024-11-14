@@ -24,3 +24,25 @@ The submitted solution to this challenge consists of a quantum program written w
 	1) A correct cost function and quantum ansätze 
 	2) A single execution of the quantum algorithm, using the state-vector simulator
 	3) The quantum program’s CX-gate count
+
+
+
+ ## References
+
+<a name='VQLS'>[1]</a>: [Bravo-Prieto et al.,Variational Quantum Linear Solver. (2020)](https://arxiv.org/pdf/1909.05820.pdf)
+
+[2]:	The Hamiltonian Simulation Guides using Classiq
+
+[3]:	The Quantum Machine Learning Guide using Classiq
+
+<a name='VQLS-with-LCU'>[4]</a>: [Variational Quantum Linear Solver (VQLS) with Linear Combination of Unitaries (LCU) Block Encoding.](https://docs.classiq.io/latest/explore/algorithms/vqls/lcu_vqls/vqls_with_lcu/)
+
+#### Classiq resources:
+
+1.	[Getting Started with Classiq - Classiq 101](https://docs.classiq.io/latest/classiq_101/)
+  
+3.	[Classiq’s documentation](https://docs.classiq.io/latest/)
+  
+5.	[Classiq Library](https://docs.classiq.io/latest/explore/) of many implementation algorithms and applications
+
+7.	[Classiq Community Slack](https://short.classiq.io/join-slack) is available for any questions you might have
