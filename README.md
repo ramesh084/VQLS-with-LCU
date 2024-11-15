@@ -49,3 +49,12 @@ The submitted solution to this challenge consists of a quantum program written w
 5.	[Classiq Library](https://docs.classiq.io/latest/explore/) of many implementation algorithms and applications
 
 7.	[Classiq Community Slack](https://short.classiq.io/join-slack) is available for any questions you might have
+
+
+
+### TEAM MEMBERS (Contributors) :
+1) Abhishek Raj ( @Abhishek Raj-IND )
+2) Ramesh Makwana ( @Ramesh Makwana  )
+3) Leszek Czajka ( @Spaghettificated )
+4) Amar ( @Amar : India )
+5) Priya ( @Priya ) 
