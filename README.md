@@ -52,7 +52,7 @@ The submitted solution to this challenge consists of a quantum program written w
 
 
 
-### TEAM MEMBERS (Contributors) :
+#### Team members (Contributors) :
 1) Abhishek Raj ( @Abhishek Raj-IND )
 2) Ramesh Makwana ( @Ramesh Makwana  )
 3) Leszek Czajka ( @Spaghettificated )
