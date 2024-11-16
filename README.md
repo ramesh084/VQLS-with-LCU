@@ -55,6 +55,7 @@ The submitted solution to this challenge consists of a quantum program written w
 1) Classiq 0.57 (Classiq's Python SDK for quantum computing)  [https://platform.classiq.io/](https://platform.classiq.io/)
 2) Python 3.12 (NOTE - The SDK is currently supported for Python versions 3.8 to 3.12).
 3) **Note**: To use Classiq platform for free for non-commercial purposes, you must register. Then you can optionally install the Python SDK package and authenticate your account. [Click here for more derail...](https://docs.classiq.io/latest/classiq_101/registration_installations/)
+4) Jupyter
 
 #### Team members (Contributors) :
 1) Abhishek Raj ( @Abhishek Raj-IND )
