@@ -1,1 +1,6 @@
+NOTE: We have tried some differernt Ansatz. For example using only 
+ gates i.e. not used the 
+ layer. 10 
+ on 10 qubits. apply_ry_on_all(angles, system_qubits). Assign correct paramters value to , i.e. ansatz_param_count = 10. This solution with this ansatz takes lesser time to complete execution. We have prepared different notebook for this.
 
+**NOTE:** We have tried some differernt Ansatz. For example using only $Ry$ gates i.e. not used the $CZ$ layer. 10 $Ry$ on 10 qubits.  ***apply_ry_on_all(angles, system_qubits)***.  Assign correct paramters value to , i.e. *ansatz_param_count = 10*. This solution with this ansatz takes lesser time to complete execution. We have prepared different notebook for this.
