@@ -1,7 +1,9 @@
 
 # QPoland Global Quantum Hackathon
-### 19-Oct-2024 to 27-Oct-2024 (For QML-Track submission deadline 18-Nov-2024)
+19-Oct-2024 to 27-Oct-2024 (For QML track submission deadline extended till 18-Nov-2024)
+
 https://www.qaif.org/contests/qpoland-global-quantum-hackathon
+
 
 ## Quantum Machine Learning: Solving Linear Systems of Equations. 
 ## Re-Implementation of Variational Quantum Linear Solver from paper [Bravo-Prieto et al. (2020)](https://arxiv.org/pdf/1909.05820.pdf)
