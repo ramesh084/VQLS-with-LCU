@@ -26,7 +26,7 @@ In this challenge, your goal is to reproduce the implementation of the quantum a
 Where $X_i$, adn $Z_i$ are the respective Pauli matrices, acting over the Qubit with index $i$.
 The submitted solution to this challenge consists of a quantum program written with Classiq that includes:
 
-	1) A correct cost function and quantum ansätze 
+	1) A correct cost function and quantum ansatz
 	2) A single execution of the quantum algorithm, using the state-vector simulator
 	3) The quantum program’s CX-gate count
 
