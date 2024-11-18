@@ -4,9 +4,9 @@
 
 https://www.qaif.org/contests/qpoland-global-quantum-hackathon
 
-
-## Quantum Machine Learning: Solving Linear Systems of Equations. 
-## Re-Implementation of Variational Quantum Linear Solver from paper [Bravo-Prieto et al. (2020)](https://arxiv.org/pdf/1909.05820.pdf)
+## Problem Statement:
+### Quantum Machine Learning: Solving Linear Systems of Equations
+### Re-Implementation of Variational Quantum Linear Solver from paper [Bravo-Prieto et al. (2020)](https://arxiv.org/pdf/1909.05820.pdf)
 
 ### Background
 
